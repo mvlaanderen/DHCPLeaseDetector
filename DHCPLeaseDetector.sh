@@ -4,9 +4,9 @@
 # Version	: v1.0
 # Auhtor	: M. Vlaanderen
 # Purpose	: Detects new DHCP leases on the network 
-#			  and perform some desired actions
+#	          and perform some desired actions
 # Date		: 2019/03/04
-# License   : MIT
+# License : MIT
 # ==========================================================
 
 # Configuration

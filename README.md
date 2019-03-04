@@ -2,8 +2,8 @@
 A DHCP Lease Detector for OpenWRT 15.05 and higher
 
 I wrote this script to monitor guest access to my network. In my case, if a new
-lease has been detected, the script issues a Telegram messages to me and enters
-the new lease inside a logfile which I'm keeping 60 days.
+lease has been detected, the script issues a Telegram message to me and enters
+the new lease inside a logfile which I'm keeping for 60 days.
 
 Installation and configuration
 =
